@@ -72,19 +72,24 @@ Next Level : Cracking top tech + building impactful products 🚀
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=amansharmacs1&label=Profile%20Views&color=00ff41&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=amansharmacs1&label=Profile%20Views&color=6c5ce7&style=flat-square"/>
 
 <br><br>
 
 <a href="https://linkedin.com/in/amansharmacs">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:amansharmacs11@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gmail-FF4B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/okey_aman1">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
+
 
 ---
 
