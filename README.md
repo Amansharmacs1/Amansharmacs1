@@ -1,13 +1,70 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Impactful real-world applications<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, EdTech solutions, and impactful real-world applications<br><br>🤝 I’m looking for help with<br>Advanced AI model building, deployment (full-stack), and scaling real-world projects<br><br>🌱 I’m currently learning<br>Machine Learning, System Design, and building production-ready applications<br><br>💬 Ask me about<br>Java, Data Structures & Algorithms, AI projects, and hackathon ideas<br><br>⚡ Fun fact<br>I enjoy turning real-life problems into startup-style tech solutions 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=%F0%9F%94%A5+ACCESS+GRANTED+%F0%9F%94%A5;>+_+ANU-2524_;Full-Stack+Alchemist+%E2%9A%A1+Code+Sorcerer;Summoning+digital+chaos+since+day+one...;Hackathon+Warrior+%E2%9A%94+Daily+Committer+%F0%9F%90%8D" alt="Matrix Typing" />
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Cyberpunk coder" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okey_aman1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amansharmacs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansharmacs11@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amansharmacs1&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amansharmacs1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amansharmacs1&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### CURRENT MISSION
+```yaml
+Status     : Online 24/7
+Mode       : Experimentation + Shipping
+Weapons    : MERN Stack • Python • NumPy • Pandas • Insomnia
+Weakness   : Sleep & "It's working on my machine"
+Next Level : Turning coffee into production-grade apps ☕→🚀
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo4MW9qbzh6eWE5MXRtdWIyY2Yxa2VwcGt5NG15aHY2cjVnZjd6ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Anu dancing while coding" />
+  </picture>
+
+  <h1>Building the impossible, one experiment at a time 💪✨</h1>
+  <p><i>Passionate • Persistent • Slightly addicted to solving hard problems</i></p>
+</div>
+
+### About Me
+- MERN Stack specialist — I breathe React, Node, and MongoDB
+- Deep into Python, NumPy, Pandas & Data Magic
+- Intersted in Hackathon...
+- I break things intentionally (it's called research)
+- Always open to crazy ideas and epic collaborations
+
+### My Current Arsenal
+<div align="center">
+  <img height="50" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,python,numpy,pandas,tailwind,redis,docker,git,github,figma,vscode&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+
+![Anu's Stats](https://github-readme-stats.vercel.app/api?username=ANU-2524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANU-2524&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+###  Daily Growing Contribution Snake (Animated!)
+<div align="center">
+  <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+  <p><i>Watch me feed this snake every single day</i></p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ANU-2524&label=Views&color=6c5ce7&style=flat-square" alt="views"/>
+  
+  <h3>Let's create something legendary together !!! </h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anu--soni)
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anusoni25.2006@email.com)
+</div>
+
+<p align="center">
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ1YnF5ZTRkOXVncXRrY3ljMGUwNGVwcDYyaWJvbm95bmNsdmJieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif" width="20%"/>
+  <br><br>
+  <b>Keep building. Keep breaking. Keep growing.</b>
+</p>
