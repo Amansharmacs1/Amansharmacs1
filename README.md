@@ -61,11 +61,11 @@ Next Level : Cracking top tech + building impactful products 🚀
 
 ## 🐍 Daily Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amansharmacs1/amansharmacs1/output/github-contribution-grid-snake.svg"/>
-  <p><i>Watch me feed this snake every single day 🐍🔥</i></p>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amansharmacs1/amansharmacs1/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
+<p align="center"><i>Watch me feed this snake every single day 🐍🔥</i></p>
 ---
 
 ## 🌐 Let's Connect
