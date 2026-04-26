@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=%F0%9F%94%A5+ACCESS+GRANTED+%F0%9F%94%A5;>+_+AMAN-SHARMA_;DSA+Grinder+%F0%9F%A7%A0+Code+Warrior;Building+real-world+tech+%F0%9F%9A%80;Hackathon+Explorer+%E2%9A%94+Daily+Learner;Turning+ideas+into+impact..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=%F0%9F%94%A5+ACCESS+GRANTED+%F0%9F%94%A5;>+_+AMAN-SHARMA_;DSA+Grinder+%F0%9F%A7%A0+Code+Warrior;Building+real-world+tech+%F0%9F%9A%80;Hackathon+Explorer+%E2%9A%94+Daily+Learner;Turning+ideas+into+impact..." />
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## 🟢 CURRENT MISSION
 
-```yaml id="code1"
+```yaml
 Status     : Online 24/7
 Mode       : Learning + Building + Shipping
 Weapons    : DSA • MERN Stack • Python • AI/ML • Problem Solving
@@ -66,6 +66,7 @@ Next Level : Cracking top tech + building impactful products 🚀
 </p>
 
 <p align="center"><i>Watch me feed this snake every single day 🐍🔥</i></p>
+
 ---
 
 ## 🌐 Let's Connect
@@ -89,7 +90,6 @@ Next Level : Cracking top tech + building impactful products 🚀
 </a>
 
 </div>
-
 
 ---
 
