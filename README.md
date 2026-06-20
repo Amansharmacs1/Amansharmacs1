@@ -42,7 +42,7 @@ Next Level : Cracking top tech + building impactful products 🚀
 ## ⚔️ My Current Arsenal
 
 <div align="center">
-  <img height="50" src="https://skillicons.dev/icons?i=cpp,c,javscript,sql,java,python,js,react,nodejs,express,mongodb,html,css,git,github,vscode&theme=dark" />
+  <img height="50" src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,html,css,git,github,vscode&theme=dark" />
 </div>
 
 ---
