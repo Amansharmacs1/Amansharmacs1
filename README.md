@@ -58,6 +58,16 @@ Next Level : Cracking top tech + building impactful products 🚀
 </div>
 
 ---
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshgoyal05&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 
 ## 🐍 Daily Contribution Snake
 
