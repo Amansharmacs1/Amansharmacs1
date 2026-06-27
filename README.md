@@ -51,8 +51,6 @@ Next Level : Cracking top tech + building impactful products 🚀
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amansharmacs1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharmacs1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -62,7 +60,7 @@ Next Level : Cracking top tech + building impactful products 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshgoyal05&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amansharmacs1&theme=tokyonight&hide_border=true" />
 
 </div>
 
