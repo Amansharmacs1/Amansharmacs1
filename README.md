@@ -46,14 +46,6 @@ Next Level : Cracking top tech + building impactful products 🚀
 </div>
 
 ---
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharmacs1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 # 📊 GitHub Stats
 
 <div align="center">
