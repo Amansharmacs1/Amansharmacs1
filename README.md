@@ -1,33 +1,34 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=1200&height=120&lines=%F0%9F%94%A5+ACCESS+GRANTED+%F0%9F%94%A5;>+_+AMAN-SHARMA_;DSA+Grinder+%F0%9F%A7%A0+Code+Warrior;Building+real-world+tech+%F0%9F%9A%80;Hackathon+Explorer+%E2%9A%94+Daily+Learner;Turning+ideas+into+impact..." />
 
----
+                   amansharma@github
+                   -----------------
+         .--.      OS: macOS
+      .-(    ).    Role: MERN Stack Developer
+     (___.__)__)   University: Chitkara University
+                   Languages: C++ • JavaScript • Python
+                   Frontend: React • Tailwind • Vite
+                   Backend: Node.js • Express
+                   Database: MongoDB
+                   Tools: Git • GitHub • VS Code • Postman
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
-</div>
+                   Interests:
+                   > DSA
+                   > AI Applications
+                   > Full Stack Development
+                   > Hackathons
 
----
+                   Current Mission:
+                   Building real-world products
+                   Solving LeetCode daily
+                   Learning System Design
 
-## 🟢 CURRENT MISSION
+----------------------------------------------------------
 
-```yaml
-Status     : Online 24/7
-Mode       : Learning + Building + Shipping
-Weapons    : DSA • MERN Stack • Python • AI/ML • Problem Solving
-Weakness   : Sleep 😴 & "One more problem..."
-Next Level : Cracking top tech + building impactful products 🚀
-```
+GitHub Stats
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-  <h2>Building the impossible, one experiment at a time 💪✨</h2>
-  <p><i>Passionate • Persistent • Slightly addicted to solving hard problems</i></p>
-</div>
-
----
+Repos        : XX+
+Followers    : XX
+Contributions: XXXX+
+LeetCode     : 170+ Problems Solved
 
 ## 🧠 About Me
 
