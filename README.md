@@ -48,9 +48,9 @@
       <h3>EventSphere</h3>
       <p><b>Event Discovery & Management</b></p>
       <p><i>MERN Stack, AWS</i></p>
-      <p>Comprehensive event management system allowing users to seamlessly host, discover, and manage large-scale events and ticketing.</p>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <p>A comprehensive, responsive event management platform designed to help users discover, create, and manage large-scale events with a complete ticketing system.</p>
+      <a href="https://github.com/Amansharmacs1/EventSphere"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://event-sphere-gules.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
   <tr align="center">
@@ -59,18 +59,18 @@
       <h3>AuditAI</h3>
       <p><b>AI Spend Optimization Platform</b></p>
       <p><i>MERN, Gemini AI</i></p>
-      <p>AI platform tracking SaaS usage, using Gemini AI to generate executive summaries and cost-saving recommendations.</p>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <p>An AI-powered spend optimization platform that analyzes tech subscriptions to identify unnecessary expenses and recommend cost-saving alternatives.</p>
+      <a href="https://github.com/Amansharmacs1/AuditAi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://audit-ai-nu.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h1>🚗</h1>
       <h3>RentWheels</h3>
       <p><b>Vehicle Rental Platform</b></p>
       <p><i>MERN Stack</i></p>
-      <p>Full-stack vehicle rental application featuring user authentication, booking management, and availability tracking.</p>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <p>A premium peer-to-peer vehicle rental platform allowing users to seamlessly rent vehicles from trusted owners or share their own cars to earn money.</p>
+      <a href="https://github.com/Amansharmacs1/RentWheels"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://rent-wheels-omega.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
