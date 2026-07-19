@@ -21,7 +21,6 @@
       <hr>
       <h3><code>> MISSION_DIRECTIVE:</code></h3>
       <p>Architecting high-scale distributed systems, microservices & next-gen AI solutions 🚀</p>
-
       <hr>
       <h3><code>> CURRENT_OPS:</code></h3>
       <img src="https://img.shields.io/badge/Role-Joint_Secretary_@_ISTE-0055FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
