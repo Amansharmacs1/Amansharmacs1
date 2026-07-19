@@ -15,18 +15,16 @@
 
 <table align="center" width="80%">
   <tr>
-    <td>
-      <h3><code>> CURRENT_STATE:</code></h3>
-      <p>B.E. Computer Science Engineering @ Chitkara University 🎓</p>
-      <br>
-      <h3><code>> BASE_OPERATIONS:</code></h3>
-      <p>Building high-scale distributed systems, microservices & AI solutions 🚀</p>
-      <br>
-      <h3><code>> EXPERTISE:</code></h3>
-      <p><code>Java</code> <code>TypeScript</code> <code>MERN</code> <code>AWS</code> <code>AI/ML</code></p>
-      <br>
-      <h3><code>> ROLES:</code></h3>
-      <p>Joint Secretary @ ISTE 🤝</p>
+    <td width="100%">
+      <h2>👨‍🚀 <code>> IDENT: Aman Sharma</code></h2>
+      <p><b>B.E. Computer Science Engineering @ Chitkara University 🎓</b></p>
+      <hr>
+      <h3><code>> MISSION_DIRECTIVE:</code></h3>
+      <p>Architecting high-scale distributed systems, microservices & next-gen AI solutions 🚀</p>
+
+      <hr>
+      <h3><code>> CURRENT_OPS:</code></h3>
+      <img src="https://img.shields.io/badge/Role-Joint_Secretary_@_ISTE-0055FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -43,6 +41,8 @@
       <p><b>Secure Password Management System</b></p>
       <p><i>MERN Stack, Cryptography</i></p>
       <p>A highly secure password and identity management platform featuring end-to-end encryption and robust authentication.</p>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h1>🎟️</h1>
@@ -50,6 +50,8 @@
       <p><b>Event Discovery & Management</b></p>
       <p><i>MERN Stack, AWS</i></p>
       <p>Comprehensive event management system allowing users to seamlessly host, discover, and manage large-scale events and ticketing.</p>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
   <tr align="center">
@@ -59,6 +61,8 @@
       <p><b>AI Spend Optimization Platform</b></p>
       <p><i>MERN, Gemini AI</i></p>
       <p>AI platform tracking SaaS usage, using Gemini AI to generate executive summaries and cost-saving recommendations.</p>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h1>🚗</h1>
@@ -66,6 +70,8 @@
       <p><b>Vehicle Rental Platform</b></p>
       <p><i>MERN Stack</i></p>
       <p>Full-stack vehicle rental application featuring user authentication, booking management, and availability tracking.</p>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
