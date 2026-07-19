@@ -9,31 +9,63 @@
 </div>
 
 <br>
-
-<div align="center">
-  <!-- Dynamic 3D Blue Cube -->
-  <img src="https://raw.githubusercontent.com/shreyam712/shreyam712/master/assets/3D-Cube.gif" width="200" alt="3D Blue Cube"/>
-</div>
-
 ---
 
 ### 🔹 `3D_STATUS_MATRIX`
 
-<table align="center">
+<table align="center" width="80%">
   <tr>
-    <td width="60%">
+    <td>
       <h3><code>> CURRENT_STATE:</code></h3>
-      <p>Building intelligent systems & 3D Web Experiences 🌐</p>
-      <h3><code>> EXPERTISE:</code></h3>
-      <p><code>MERN</code> <code>AI/ML</code> <code>DSA</code> <code>Python</code> <code>Three.js</code></p>
+      <p>B.E. Computer Science Engineering @ Chitkara University 🎓</p>
+      <br>
       <h3><code>> BASE_OPERATIONS:</code></h3>
-      <p>Exploring Hackathons & Disruptive Tech 🚀</p>
-      <h3><code>> FATAL_FLAW:</code></h3>
-      <p><i>Sleep is a myth. 😴</i></p>
+      <p>Building high-scale distributed systems, microservices & AI solutions 🚀</p>
+      <br>
+      <h3><code>> EXPERTISE:</code></h3>
+      <p><code>Java</code> <code>TypeScript</code> <code>MERN</code> <code>AWS</code> <code>AI/ML</code></p>
+      <br>
+      <h3><code>> ROLES:</code></h3>
+      <p>Joint Secretary @ ISTE 🤝</p>
     </td>
-    <td width="40%" align="center">
-      <!-- Blue Holographic Globe -->
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561115cb-eb06-4474-b78f-2af2cc3884f1.gif" width="220" alt="Blue Globe" />
+  </tr>
+</table>
+
+---
+
+### 🔹 `CORE_PROJECTS`
+
+<table align="center" width="100%">
+  <tr align="center">
+    <td width="50%" valign="top">
+      <h1>🔐</h1>
+      <h3>Passora</h3>
+      <p><b>Secure Password Management System</b></p>
+      <p><i>MERN Stack, Cryptography</i></p>
+      <p>A highly secure password and identity management platform featuring end-to-end encryption and robust authentication.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h1>🎟️</h1>
+      <h3>EventSphere</h3>
+      <p><b>Event Discovery & Management</b></p>
+      <p><i>MERN Stack, AWS</i></p>
+      <p>Comprehensive event management system allowing users to seamlessly host, discover, and manage large-scale events and ticketing.</p>
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="50%" valign="top">
+      <h1>📈</h1>
+      <h3>AuditAI</h3>
+      <p><b>AI Spend Optimization Platform</b></p>
+      <p><i>MERN, Gemini AI</i></p>
+      <p>AI platform tracking SaaS usage, using Gemini AI to generate executive summaries and cost-saving recommendations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h1>🚗</h1>
+      <h3>RentWheels</h3>
+      <p><b>Vehicle Rental Platform</b></p>
+      <p><i>MERN Stack</i></p>
+      <p>Full-stack vehicle rental application featuring user authentication, booking management, and availability tracking.</p>
     </td>
   </tr>
 </table>
@@ -63,11 +95,11 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -81,7 +113,7 @@
 
 <div align="center">
   <h3>🛠 Tools, DBs & Architecture</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,linux,git,github,vscode,postman,figma&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,linux,git,github,vscode,postman&theme=dark&perline=10" />
 </div>
 
 ---
