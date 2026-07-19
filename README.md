@@ -5,7 +5,7 @@
 
 <!-- 🤖 3D Terminal Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00CCFF&center=true&vCenter=true&width=800&height=80&lines=INITIATING+3D+ENVIRONMENT...;>+SYSTEM_READY;>+BUILDING+NEXT-GEN+AI;>+EXPLORING+THE+METAVERSE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00CCFF&center=true&vCenter=true&width=800&height=80&lines=INITIATING+3D+ENVIRONMENT...;%3E+SYSTEM_READY;%3E+BUILDING+NEXT-GEN+AI;%3E+EXPLORING+THE+METAVERSE" />
 </div>
 
 <br>
@@ -42,10 +42,46 @@
 
 ### 🔹 `TECH_ARSENAL`
 
+<table align="center" width="100%">
+  <tr align="center">
+    <td width="33%">
+      <h3>🧠 AI & ML</h3>
+    </td>
+    <td width="33%">
+      <h3>👨‍💻 Languages</h3>
+    </td>
+    <td width="33%">
+      <h3>🌐 Web Dev</h3>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,js,react,nodejs,mongodb,threejs,docker,aws,linux,git&theme=dark&perline=7" />
-  </a>
+  <h3>🛠 Tools, DBs & Architecture</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,linux,git,github,vscode,postman,figma&theme=dark&perline=10" />
 </div>
 
 ---
