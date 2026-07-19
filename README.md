@@ -33,7 +33,7 @@
     </td>
     <td width="40%" align="center">
       <!-- Blue Holographic Globe -->
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Earth.gif" width="220" alt="Blue Globe" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561115cb-eb06-4474-b78f-2af2cc3884f1.gif" width="220" alt="Blue Globe" />
     </td>
   </tr>
 </table>
@@ -96,7 +96,6 @@
 <br>
 
 <div align="center">
-  <p><i>💡 <b>Want an actual 3D contribution graph?</b> Since GitHub Markdown is flat, true 3D graphs require GitHub Actions to run. Once you paste this to your repo, you can set up the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Profile 3D Contrib Action</a> to get a literal 3D rendering of your commits! For now, enjoy the dark mode snake:</i></p>
   <img src="https://raw.githubusercontent.com/amansharmacs1/amansharmacs1/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
