@@ -41,7 +41,7 @@
       <p><i>MERN Stack, Cryptography</i></p>
       <p>A highly secure password and identity management platform featuring end-to-end encryption and robust authentication.</p>
       <a href="https://github.com/Amansharmacs1/Passora"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://passora-iyreuhej8-amansharmacs1s-projects.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h1>🎟️</h1>
