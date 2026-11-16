@@ -227,7 +227,7 @@ An academic platform designed to improve assignment evaluation and provide intel
 
 | Achievement | Details |
 |:---|:---|
-| 🏆 Problem Solving | 300+ LeetCode problems solved |
+| 🏆 Problem Solving | 350+ LeetCode problems solved |
 | 📄 Research | Published AI research paper (2025) |
 | 🚀 Development | 10+ full-stack projects developed |
 | 🎓 Academics | 9.58/10 CGPA |
